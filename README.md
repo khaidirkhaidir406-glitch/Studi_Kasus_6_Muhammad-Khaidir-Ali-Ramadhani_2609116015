@@ -90,3 +90,30 @@ Perulangan akan berhenti ketika pengguna memilih menu **3. Keluar**.
  
  ``else`` digunakan untuk menampilkan pesan **"Pilihan Tidak Ada."** jika pengguna memasukkan pilihan yang tidak tersedia.
 
+
+
+ # DOKUMENTASI OUTPUT PROGRAM
+
+ <img width="317" height="238" alt="Screenshot 2026-10-08 011445" src="https://github.com/user-attachments/assets/01c50f7b-c484-450d-8762-4cdb0e9fdf7d" />
+
+ ini adalah contoh output program menambah data.
+
+
+ <img width="383" height="362" alt="Screenshot 2026-10-08 011452" src="https://github.com/user-attachments/assets/49fd195a-43ed-4083-9a6f-f6f670d01ebc" />
+
+ ini adalah contoh output program menampilkan data.
+
+
+ <img width="321" height="176" alt="Screenshot 2026-10-08 011457" src="https://github.com/user-attachments/assets/c5f97ec2-b147-48f0-a50c-cdb45d86e0cd" />
+
+ ini adalah contoh output program untuk mengakhiri program.
+
+
+ <img width="396" height="528" alt="Screenshot 2026-10-08 011524" src="https://github.com/user-attachments/assets/decdf9e7-6979-4fa6-ac6a-d8d0559739a4" />
+
+ ini adalah output program ketika program di run ulang (tetap menampilkan data yang sudah tersimpan sebelumnya).
+
+
+
+
+
